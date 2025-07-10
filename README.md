@@ -47,7 +47,7 @@ An interactive web application that predicts student academic performance using 
 ## Install dependencies:
    ```bash
    pip install -r requirements.txt
-
+   ```
 ## 🧪 Sample Models Used:
 
 | Model               | Description                              |
