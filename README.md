@@ -43,3 +43,19 @@ An interactive web application that predicts student academic performance using 
    ```bash
    git clone https://github.com/your-username/StudentPerformancePrediction-ML.git
    cd StudentPerformancePrediction-ML
+
+## Install dependencies:
+   ```bash
+   pip install -r requirements.txt
+
+## 🧪 Sample Models Used:
+
+| Model               | Description                              |
+|---------------------|------------------------------------------|
+| Decision Tree       | Fast and interpretable tree-based model  |
+| Random Forest       | Ensemble learning for better accuracy    |
+| Perceptron          | Simple linear binary classifier          |
+| Logistic Regression | Probabilistic linear classifier          |
+| MLP Classifier      | Multi-layer feedforward neural network   |
+
+
